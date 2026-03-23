@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 *solutions*
-.csv
+*.csv
+*.xlsx
+*.xls
